@@ -1,0 +1,7 @@
+C:\Users\matrix08\Documents\Git_GitHub\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\matrix08\Documents\Git_GitHub\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\matrix08\Documents\Git_GitHub\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\matrix08\Documents\Git_GitHub\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\matrix08\Documents\Git_GitHub\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\matrix08\Documents\Git_GitHub\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\matrix08\Documents\Git_GitHub\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
